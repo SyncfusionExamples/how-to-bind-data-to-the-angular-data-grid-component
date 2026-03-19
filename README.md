@@ -1,5 +1,5 @@
 # How to Bind Data to the Angular Data Grid Component
-A quick-start project that shows how to bind local and remote data to the Syncfusion React Data Grid component. This project includes simple code examples for loading local data, and connecting to an OData v4 service using DataManager.
+A quick-start project that shows how to bind local and remote data to the Syncfusion Angular Data Grid component. This project includes simple code examples for loading local data, and connecting to an OData v4 service using DataManager.
  
 Refer to the following documentation to learn about the Angular Data Grid component: 
 https://ej2.syncfusion.com/angular/documentation/grid/data-binding/data-binding
