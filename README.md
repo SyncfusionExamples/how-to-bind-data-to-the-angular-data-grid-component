@@ -36,6 +36,6 @@ The application includes examples for:
 
 ## Documentation and Resources
 - [Angular Data Grid Documentation](https://ej2.syncfusion.com/angular/documentation/grid/data-binding/data-binding?utm_source=github&utm_medium=listing&utm_campaign=angular-datagrid-github-samples)
-- [Live Demo](https://ej2.syncfusion.com/angular/demos/#/bootstrap5/grid/flexible-data?utm_source=github&utm_medium=listing&utm_campaign=angular-datagrid-github-samples)
+- [Live Demo](https://ej2.syncfusion.com/angular/demos/#/tailwind3/grid/flexible-data?utm_source=github&utm_medium=listing&utm_campaign=angular-datagrid-github-samples)
 - 
 
