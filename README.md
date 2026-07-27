@@ -1,13 +1,13 @@
 # How to Bind Data to the Angular Data Grid Component
 
 ## Repository Description
-A quick-start project that demonstrates how to bind remote data to the Syncfusion Angular Data Grid component, complete with practical code examples connecting to OData v4 services using DataManager. Perfect for developers looking to integrate powerful data grid functionality into their Angular applications.
+A quick-start project that demonstrates how to bind remote data to the Syncfusion [Angular Data Grid](https://www.syncfusion.com/angular-components/angular-data-grid?utm_source=github&utm_medium=listing&utm_campaign=angular-datagrid-github-samples) component, complete with practical code examples connecting to OData v4 services using DataManager. Perfect for developers looking to integrate powerful data grid functionality into their Angular applications.
 
 ## Overview
-This project showcases best practices for data binding in Angular applications using the Syncfusion Data Grid component. It provides a comprehensive example covering dynamic remote data sources, enabling developers to quickly understand and implement data binding patterns in their own projects.
+This project showcases best practices for [data binding](https://ej2.syncfusion.com/angular/documentation/grid/data-binding/data-binding?utm_source=github&utm_medium=listing&utm_campaign=angular-datagrid-github-samples) in Angular applications using the Syncfusion Data Grid component. It provides a comprehensive example covering dynamic remote data sources, enabling developers to quickly understand and implement data binding patterns in their own projects.
 
 ## Features
-- **Remote Data Binding**: Connect to OData v4 services using DataManager for dynamic data fetching
+- **[Remote Data Binding](https://ej2.syncfusion.com/angular/documentation/grid/data-binding/remote-data?utm_source=github&utm_medium=listing&utm_campaign=angular-datagrid-github-samples)**: Connect to OData v4 services using DataManager for dynamic data fetching
 - **Angular Integration**: Built with modern Angular architecture and best practices
 - **Syncfusion Components**: Leverages the powerful Syncfusion Angular Data Grid component
 - **Easy to Understand**: Well-documented code examples for quick implementation
@@ -35,7 +35,7 @@ The application includes examples for:
 - Configuring DataManager for API communication
 
 ## Documentation and Resources
-- [Angular Data Grid Documentation](https://ej2.syncfusion.com/angular/documentation/grid/data-binding/data-binding)
-- [Live Demo](https://ej2.syncfusion.com/angular/demos/#/tailwind3/grid/flexible-data)
+- [Angular Data Grid Documentation](https://ej2.syncfusion.com/angular/documentation/grid/data-binding/data-binding?utm_source=github&utm_medium=listing&utm_campaign=angular-datagrid-github-samples)
+- [Live Demo](https://ej2.syncfusion.com/angular/demos/#/tailwind3/grid/flexible-data?utm_source=github&utm_medium=listing&utm_campaign=angular-datagrid-github-samples)
 - 
 
